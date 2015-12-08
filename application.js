@@ -1,4 +1,5 @@
   $(function() {
+    // Would NEVER include private key for a real app, this is here for learning purposes 
     var publickey = 'bfcb54cde0a24cafed1d2860f48e38c5';
     var privatekey = 'f5e9aa2696a5be03c7d6244f12e1f47d8027874e';
     var ts = Date.now();
